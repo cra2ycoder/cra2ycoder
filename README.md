@@ -1,6 +1,6 @@
 ## Mohanraj Rangasamy
 
-Front-End Developer with 7+ years of experience building responsive, user-friendly websites in the recruiting industry. Proficient in HTML5, CSS3, JavaScript, TypeScript, Node.js, React.js, and Next.js , with a passion for creating seamless, accessible user experiences. Skilled in Adobe Photoshop and XD, bridging design and development. Dedicated to clean code, performance optimization, and staying ahead of web development trends.
+#### Frontend Architect @ Infosys | Javascript/Typescript, Node.js, Next.js, React.js, React Query, Cypress, Tailwindcss, SASS | Monorepo, Micro-frontend based web development
 
 <!--
 **cra2ycoder/cra2ycoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
