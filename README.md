@@ -8,7 +8,7 @@
 
 > ### 🧠 Skills I've Developed 
 
-Javascript/Typescript, Node.js, Express.js, Next.js, React.js, Tanstack React Query, Tailwindcss, SASS, Python, Jest, Cypress, MUI, Webpack, and Rollup etc.,
+Javascript/Typescript, Node.js, Express.js, Next.js, React.js, Tanstack React Query, Tailwindcss, SASS, Python, Jest, RTL, Cypress, MUI, Webpack, and Rollup etc.,
 
 > ### 🏢 Companies I’ve Worked With
 
