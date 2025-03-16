@@ -12,8 +12,8 @@ Javascript/Typescript, Node.js, Express.js, Next.js, React.js, Tanstack React Qu
 
 > ### 🏢 Companies I’ve Worked With
 
-* `Infosys Equinox` | Architect EQ | 2018 - **Present** 
-* `Skava an Infosys` | Creative Manager | 2009 - 2017
+* `Infosys Equinox` | Architect EQ | 2020 - **Present** 
+* `Skava an Infosys` | Creative Manager | 2009 - 2020
 
 > ### 🕑 What I Enjoy in My Free Time
 
